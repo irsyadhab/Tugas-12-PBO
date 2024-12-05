@@ -1,7 +1,9 @@
 # Tugas 12 PBO
 
 Nama  : Muhammad Irsyad Habibi
+
 NRP  : 5025221150
+
 Kelas  : PBO A
 
 # Class Ticket
